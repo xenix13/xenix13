@@ -19,13 +19,13 @@ AI is a big part of how I work. It helps me **turn my ideas into real, working p
 
 I'm fully transparent about it, and that's exactly why **your feedback matters so much**: if you spot something that could be cleaner, safer or smarter, please tell me.
 
-## 🚀 Flagship project: Nexis
+## 🚀 Flagship project: Noxa
 
 <table>
 <tr>
 <td>
 
-**[Nexis](https://github.com/xenix13/Nexis)** is my first major project: a **new alternative to existing self-hosted media servers**.
+**[Noxa](https://github.com/xenix13/Noxa)** is my first major project: a **new alternative to existing self-hosted media servers**.
 
 The goal is to combine **performance, accessibility and features** in a single product:
 
@@ -40,7 +40,7 @@ The goal is to combine **performance, accessibility and features** in a single p
 </tr>
 </table>
 
-I'd love for you to try it, break it, and tell me what you think. **Every piece of feedback and every recommendation on Nexis is welcome.**
+I'd love for you to try it, break it, and tell me what you think. **Every piece of feedback and every recommendation on Noxa is welcome.**
 
 ## 🎵 Other projects
 
@@ -65,4 +65,4 @@ That said, if you like what I do, **you're welcome to support my projects** — 
 
 ---
 
-<p align="center"><i>Thanks for stopping by — and don't hesitate to share your thoughts on Nexis! 🙏</i></p>
+<p align="center"><i>Thanks for stopping by — and don't hesitate to share your thoughts on Noxa! 🙏</i></p>
