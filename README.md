@@ -32,8 +32,9 @@ The goal is to combine **performance, accessibility and features** in a single p
 - 📚 Full media server — library scanning, metadata and transcoding built in
 - 👤 Per-user spaces — watch history, visible content, personalized display
 - ⏭️ Intro detection with a skip-intro banner
-- 📱 Installable web app (PWA) + a lightweight Android TV app
-- 🏠 Fully self-hosted, designed to run in a VM or an LXC container
+- 🎨 Customization and a lot of features
+- 📱 Installable app and webapp (PWA) + a lightweight Android TV app
+- 🏠 Fully self-hosted, designed to run in a VM, Docker container or an LXC container
 
 </td>
 </tr>
